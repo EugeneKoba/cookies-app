@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cookies-app/static/css/main.1666ea9a.css",
+    "main.js": "/cookies-app/static/js/main.9cf892be.js",
+    "index.html": "/cookies-app/index.html",
+    "main.1666ea9a.css.map": "/cookies-app/static/css/main.1666ea9a.css.map",
+    "main.9cf892be.js.map": "/cookies-app/static/js/main.9cf892be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1666ea9a.css",
+    "static/js/main.9cf892be.js"
+  ]
+}
